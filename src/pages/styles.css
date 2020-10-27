@@ -175,8 +175,11 @@ color: white;
 #test {
     margin-left: 0;
     align-self: center;
+    position: relative;
 }
-
+.flip-card{
+  position: relative;
+}
 
 
   } 

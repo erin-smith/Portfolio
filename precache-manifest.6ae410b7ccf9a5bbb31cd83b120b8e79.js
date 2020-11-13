@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c457619455ec6fd15a53f6875e596bec",
+    "revision": "09d47ecd4bfc0ffcce467449eaad8599",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "f58a5572c7a3171ad6a7",
-    "url": "/portfolio/static/css/main.53389d8f.chunk.css"
+    "revision": "603bee7ff3607b99ad19",
+    "url": "/portfolio/static/css/main.dc161b8d.chunk.css"
   },
   {
-    "revision": "399ad0ecc11e49ade14a",
-    "url": "/portfolio/static/js/2.9e8a0772.chunk.js"
+    "revision": "8b8516f0fe39a7e8ecc1",
+    "url": "/portfolio/static/js/2.7db9dcbd.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.9e8a0772.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.7db9dcbd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f58a5572c7a3171ad6a7",
-    "url": "/portfolio/static/js/main.21f8533b.chunk.js"
+    "revision": "603bee7ff3607b99ad19",
+    "url": "/portfolio/static/js/main.35950ae6.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+  },
+  {
+    "revision": "d5cbf760c82318518501b6fc12d7275c",
+    "url": "/portfolio/static/media/Erin_resume.d5cbf760.pdf"
   },
   {
     "revision": "9f70211ab8f0a3323e41696f0b65ca07",
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/myfirstpage.019e148d.png"
   },
   {
+    "revision": "9a7f0e83738fdf5fa741dea31d7223fc",
+    "url": "/portfolio/static/media/notepad.9a7f0e83.png"
+  },
+  {
     "revision": "2bfbdc59a765b7d76c012234ad8afe67",
     "url": "/portfolio/static/media/profile.2bfbdc59.JPG"
   },
@@ -68,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/quiz.e8b7c072.png"
   },
   {
+    "revision": "d6a765bf6d10d37efbaaae54f5aeb1a8",
+    "url": "/portfolio/static/media/resume920.d6a765bf.png"
+  },
+  {
     "revision": "030ee21f1d981fed05f0b4460f1179ab",
     "url": "/portfolio/static/media/scheduler.030ee21f.png"
+  },
+  {
+    "revision": "41492f4e19547470d297f221737e3e28",
+    "url": "/portfolio/static/media/self.41492f4e.jpg"
   },
   {
     "revision": "355c26d408a3121066f30b23d4145f3c",

@@ -8,7 +8,6 @@ function Header() {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-2">
-          // eslint-disable-next-line 
           <a className= "navbar-brand">
         <img alt="latte art tulip" src="https://s3-media0.fl.yelpcdn.com/bphoto/Q7bdFrX8vI403fAF-BP6-Q/o.jpg" id="tulip" className="d-inline-block align-top"  />
          Erin Smith</a>

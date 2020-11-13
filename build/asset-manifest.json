@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.53389d8f.chunk.css",
-    "main.js": "/portfolio/static/js/main.21f8533b.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.21f8533b.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.dc161b8d.chunk.css",
+    "main.js": "/portfolio/static/js/main.35950ae6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.35950ae6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.9e8a0772.chunk.js": "/portfolio/static/js/2.9e8a0772.chunk.js",
-    "static/js/2.9e8a0772.chunk.js.map": "/portfolio/static/js/2.9e8a0772.chunk.js.map",
+    "static/js/2.7db9dcbd.chunk.js": "/portfolio/static/js/2.7db9dcbd.chunk.js",
+    "static/js/2.7db9dcbd.chunk.js.map": "/portfolio/static/js/2.7db9dcbd.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.d57eeb755769f6af191c9c47b27ec77b.js": "/portfolio/precache-manifest.d57eeb755769f6af191c9c47b27ec77b.js",
+    "precache-manifest.6ae410b7ccf9a5bbb31cd83b120b8e79.js": "/portfolio/precache-manifest.6ae410b7ccf9a5bbb31cd83b120b8e79.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.53389d8f.chunk.css.map": "/portfolio/static/css/main.53389d8f.chunk.css.map",
-    "static/js/2.9e8a0772.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9e8a0772.chunk.js.LICENSE.txt",
+    "static/css/main.dc161b8d.chunk.css.map": "/portfolio/static/css/main.dc161b8d.chunk.css.map",
+    "static/js/2.7db9dcbd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.7db9dcbd.chunk.js.LICENSE.txt",
+    "static/media/Erin_resume.pdf": "/portfolio/static/media/Erin_resume.d5cbf760.pdf",
     "static/media/achilles.png": "/portfolio/static/media/achilles.9f70211a.png",
     "static/media/App.css": "/portfolio/static/media/berry.4433c41b.jpg",
     "static/media/burgerShot.png": "/portfolio/static/media/burgerShot.1d013822.png",
@@ -20,16 +21,19 @@
     "static/media/game.png": "/portfolio/static/media/game.f3835ba0.png",
     "static/media/loo_logo.jpg": "/portfolio/static/media/loo_logo.dcc0a605.jpg",
     "static/media/myfirstpage.png": "/portfolio/static/media/myfirstpage.019e148d.png",
+    "static/media/notepad.png": "/portfolio/static/media/notepad.9a7f0e83.png",
     "static/media/profile.JPG": "/portfolio/static/media/profile.2bfbdc59.JPG",
     "static/media/purplepages.png": "/portfolio/static/media/purplepages.8193f186.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.e8b7c072.png",
+    "static/media/resume920.png": "/portfolio/static/media/resume920.d6a765bf.png",
     "static/media/scheduler.png": "/portfolio/static/media/scheduler.030ee21f.png",
+    "static/media/self.jpg": "/portfolio/static/media/self.41492f4e.jpg",
     "static/media/team.png": "/portfolio/static/media/team.355c26d4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.9e8a0772.chunk.js",
-    "static/css/main.53389d8f.chunk.css",
-    "static/js/main.21f8533b.chunk.js"
+    "static/js/2.7db9dcbd.chunk.js",
+    "static/css/main.dc161b8d.chunk.css",
+    "static/js/main.35950ae6.chunk.js"
   ]
 }

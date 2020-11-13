@@ -76,7 +76,7 @@ handleFormSubmit = event => {
     // Notice how each input has a `value`, `name`, and `onChange` prop
     return (
         <div className="container" id="boxz">
-          <h4 className="contactHead">Contact Me Here!</h4>
+          <h4 className="contactHead">You can also contact me here!</h4>
         <form className="contact-form form-group" method="post">
         <div className="form-inline form-group">
         <label for="name" className="mr-2">Name:</label>
@@ -86,7 +86,7 @@ handleFormSubmit = event => {
             name="fullName"
             onChange={this.handleInputChange}
             type="text"
-            placeholder="Full Name"
+            placeholder="Your Name"
             className="form-control mb-2 mr-sm-2" 
           />
           <div id="spacer"></div>
@@ -97,7 +97,7 @@ handleFormSubmit = event => {
             name="email"
             onChange={this.handleInputChange}
             type="text"
-            placeholder="myEmail@domain.com"
+            placeholder="yourEmail@mail.com"
             className="form-control mb-2 mr-sm-2" 
           />
           </div>
@@ -116,7 +116,6 @@ handleFormSubmit = event => {
           </div>
           <div className="form-inline">
           <input id="mail" type="submit" name="submit" className="btn btn-info active" value="Send Message" onClick={this.handleFormSubmit}/>
-          <h6 className="ml-4" id="or">(Click the footer icons for more)</h6>
           </div>
       </form>
       </div>

@@ -14,18 +14,17 @@ function About() {
         <h3>About Me</h3>
         <p>
           Greetings! I hail from Tulsa, Oklahoma- the heart of "Tornado Alley".</p><p>I grew up playing: <span
-            className="font-italic">Myst, Sim City, Lemmings, Carmen San Diego, Glider,</span> and <span className="font-italic">Monkey
-            Island</span>.
+            className="font-italic">Myst, Sim City, Lemmings, Carmen San Diego, and Glider.</span>&nbsp;
           I love languages: coding, math, music, literature/writing, and art.
-          My obsessions with puzzles, problem-solving, and helping other people drive me.
+          My obsessions with puzzles, problem-solving, and helping other people drive me.  I am passionate about coding and find that it combines all of my favorite things! 
         </p>
         <p>
           A Full-Stack Web Developer for hire, I enjoy JavaScript, jQuery, ES6, React, Node, Express, API's, JSON, AJAX, MySQL, MongoDB, Git, and Heroku.  I'm adept at HTML, CSS, Bootstrap, Material UI, and other CSS frameworks. There is always more to come- I am a life-long learner!</p>
-        <p> Profession: I have 15 decorated years of experience managing restaurants and cafés. I build inspired,
-          loyal, sustainable teams. I put people first.</p> <p>
-          Optimistic about finding a new career- in the Tech world, I hope to work my way up from a Full-Stack Web Developer and one day
+        <p> Profession: I have a decorated decade of experience managing restaurants and cafés. I build inspired,
+          loyal, sustainable teams. I put people first and excel at communication.</p> <p>
+          Optimistic about finding a new career- in the Tech world, I hope to work my way up from a developer position and one day
           combine my skill-sets: Leadership in Tech.</p><p>
-          I am hopeful, hard-working, and driven.
+          I am hopeful, hard-working, passionate and driven.
         </p>
         <h2 className="sign">Erin</h2>
       </div>

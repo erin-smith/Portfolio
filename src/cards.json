@@ -14,7 +14,7 @@
     "image": "loo_logo.jpg",
     "link1": "https://github.com/erin-smith/loo",
     "link2": "http://skip-to-the-loo.com",
-    "bgcolor": "lightseagreen"
+    "bgcolor": "#026670"
 }, 
 {
     "id": 2,
@@ -32,16 +32,16 @@
     "image": "scheduler.png",
     "link1": "https://github.com/erin-smith/schedule-planner",
     "link2": "https://erin-smith.github.io/schedule-planner",
-    "bgcolor": "rgb(120, 252, 120)"
+    "bgcolor": "rgb(79, 232, 79)"
 }, 
 {
     "id": 4,
-    "title": "Resume Tile",
-    "description": "This is an update of my First Webpage, Resume, Bio, and Current Contact Info.",
-    "image": "myfirstpage.png",
-    "link1": "https://github.com/erin-smith/resume",
-    "link2": "https://erin-smith.github.io/resume/",
-    "bgcolor": "tomato"
+    "title": "Kill the Virus!",
+    "description": "Inspired by COVID-19 back in March 2020, This is my first ever videogame made in Scratch!  It was too much fun to leave off and Scratch! highlights a truly revolutionary concept.  I dream to build a resource of the same caliber one day.",
+    "image": "game.png",
+    "link1": "https://scratch.mit.edu/projects/378910339/",
+    "link2": "https://scratch.mit.edu/projects/378910339/",
+    "bgcolor": "rgb(143, 143, 242)"
 }, 
 {
     "id": 5,
@@ -68,14 +68,14 @@
     "image": "team.png",
     "link1": "https://github.com/erin-smith/team-generator",
     "link2": "https://www.youtube.com/watch?v=px2xPOccoKU",
-    "bgcolor": "cadetblue"
+    "bgcolor": "grey"
 }, 
 {
     "id": 8,
-    "title": "Kill the Virus!",
-    "description": "Inspired by COVID-19 back in March 2020, This is my first ever videogame made in Scratch!  It was too much fun to leave off and Scratch! highlights a truly revolutionary concept.  I dream to build a resource of the same caliber one day.",
-    "image": "game.png",
-    "link1": "https://scratch.mit.edu/projects/378910339/",
-    "link2": "https://scratch.mit.edu/projects/378910339/",
-    "bgcolor": "lawngreen"
+    "title": "NotePad",
+    "description": "This app allows users to create and save notes, view previously saved notes, and delete notes in order to keep track of important information and have written info readily available!",
+    "image": "notepad.png",
+    "link1": "https://github.com/erin-smith/Notepad",
+    "link2": "https://agile-wildwood-21590.herokuapp.com/",
+    "bgcolor": "#18BC9C"
 }]

@@ -5,6 +5,7 @@ import Portfolio from "./pages/Portfolio";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
+import Resume from"./pages/Resume";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Header/>
         <Route exact path="/" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
+        <Route exact path="/resume" component={Resume} />
         <Route path="/contact" component={Contact} />
         <Footer/>
       </div>

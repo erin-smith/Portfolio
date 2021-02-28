@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e86d9b6476995fa2eec1c8fff0b6870f",
+    "revision": "fb4ff15dbbecb6ff8c7177c863000299",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1a65a0a9b2e8f1d0a117",
-    "url": "/portfolio/static/css/main.dc161b8d.chunk.css"
+    "revision": "d2c0b5100ad2a74456ab",
+    "url": "/portfolio/static/css/main.89a06e33.chunk.css"
   },
   {
-    "revision": "8b8516f0fe39a7e8ecc1",
-    "url": "/portfolio/static/js/2.7db9dcbd.chunk.js"
+    "revision": "b05f7e7a55414722708c",
+    "url": "/portfolio/static/js/2.72048f66.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/portfolio/static/js/2.7db9dcbd.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.72048f66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a65a0a9b2e8f1d0a117",
-    "url": "/portfolio/static/js/main.7c5905c2.chunk.js"
+    "revision": "d2c0b5100ad2a74456ab",
+    "url": "/portfolio/static/js/main.0c27bf7b.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
+  },
+  {
+    "revision": "ddb1a86316bf8400f822a89270802c84",
+    "url": "/portfolio/static/media/3.ddb1a863.jpg"
   },
   {
     "revision": "d5cbf760c82318518501b6fc12d7275c",
@@ -30,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f70211ab8f0a3323e41696f0b65ca07",
     "url": "/portfolio/static/media/achilles.9f70211a.png"
-  },
-  {
-    "revision": "4433c41bd17b899ba552855a073512ec",
-    "url": "/portfolio/static/media/berry.4433c41b.jpg"
   },
   {
     "revision": "1d013822d776916131316dc4dfba50fd",
@@ -52,20 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/game.f3835ba0.png"
   },
   {
+    "revision": "c60b89f9f56668ae5a6f683c27fa78ae",
+    "url": "/portfolio/static/media/heart.c60b89f9.jpg"
+  },
+  {
     "revision": "dcc0a60536504466a192624d801e015c",
     "url": "/portfolio/static/media/loo_logo.dcc0a605.jpg"
   },
   {
-    "revision": "019e148d027e06b645ae054b7d2a8b3e",
-    "url": "/portfolio/static/media/myfirstpage.019e148d.png"
-  },
-  {
     "revision": "9a7f0e83738fdf5fa741dea31d7223fc",
     "url": "/portfolio/static/media/notepad.9a7f0e83.png"
-  },
-  {
-    "revision": "2bfbdc59a765b7d76c012234ad8afe67",
-    "url": "/portfolio/static/media/profile.2bfbdc59.JPG"
   },
   {
     "revision": "8193f186276f4a7b361573d8d3a14a92",

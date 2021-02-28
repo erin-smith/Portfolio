@@ -1,7 +1,7 @@
 [{
     "id": 0,
     "title": "Achilles' Heel",
-    "description": "A scalable full-stack MERN MVC app transporting users to a realm of bright, educational games in Ancient Greece to mitigate stress (MERN MVC, Leaflet, Mapbox, Dicebear, Google Auth APIs, Material UI, Inkscape)"  ,
+    "description": "A scalable full-stack MERN app transporting users to a realm of educational games in Ancient Greece to mitigate stress (MERN, Leaflet, Mapbox, Dicebear, Google Auth APIs, Material UI, Inkscape)",
     "image": "achilles.png",
     "link1": "https://github.com/erin-smith/Achilles-heel",
     "link2": "https://achilles-heel.herokuapp.com/",
@@ -10,7 +10,7 @@
 {
     "id": 1,
     "title": "Skip to the Loo",
-    "description": "A User-driven full-stack application that identifies nearby public restrooms in times of need, pertinent during the era of COVID-19. (MySQL, Node, Express, Handlebars, Sequelize ORM, Google Places API)!",
+    "description": "A User-driven application that displays nearby public restrooms in times of need, pertinent during the era of COVID. (MySQL, Node, Express, Handlebars, Sequelize ORM, Google Places API)!",
     "image": "loo_logo.jpg",
     "link1": "https://github.com/erin-smith/loo",
     "link2": "http://skip-to-the-loo.com",
@@ -19,7 +19,7 @@
 {
     "id": 2,
     "title": "Purple Pages",
-    "description": "Group API Project:  A vital web application for finding which streaming service offers the TV show, sports program or film that you want to watch right NOW!",
+    "description": "Group API Project:  A vital web application for finding which streaming service offers the TV show, sports program, or film that you want to watch right NOW!",
     "image": "purplepages.png",
     "link1": "https://github.com/erin-smith/Purple-Pages",
     "link2": "https://erin-smith.github.io/Purple-Pages/",
@@ -28,20 +28,20 @@
 {
     "id": 3,
     "title": "Scheduler",
-    "description": "This schedule-planner displays a daily 8am-6pm calendar and allows the user to plan appointments for each hour of the day and store them. Generate a new quote of the day as a daily heading for fun or inspiration.",
+    "description": "This planner displays a daily 8am-6pm calendar and allows the user to plan appointments for each hour of the day and store them. Generate a new quote of the day as a heading for inspiration.",
     "image": "scheduler.png",
     "link1": "https://github.com/erin-smith/schedule-planner",
     "link2": "https://erin-smith.github.io/schedule-planner",
-    "bgcolor": "rgb(79, 232, 79)"
+    "bgcolor": "lightgreen"
 }, 
 {
     "id": 4,
     "title": "Kill the Virus!",
-    "description": "Inspired by COVID-19 back in March 2020, This is my first ever videogame made in Scratch!  It was too much fun to leave off and Scratch! highlights a truly revolutionary concept.  I dream to build a resource of the same caliber one day.",
+    "description": "Inspired by COVID-19 back in March 2020, This is my first ever videogame made in Scratch!  It was too much fun to leave off.  I dream to build a resource of the same caliber one day.",
     "image": "game.png",
     "link1": "https://scratch.mit.edu/projects/378910339/",
     "link2": "https://scratch.mit.edu/projects/378910339/",
-    "bgcolor": "rgb(143, 143, 242)"
+    "bgcolor": "rgb(193, 143, 242)"
 }, 
 {
     "id": 5,
@@ -55,7 +55,7 @@
 {
     "id": 6,
     "title": "JavaScript Quiz",
-    "description": "This a timed, multiple-choice JavaScript quiz that utilizes event clicks, elements that disappear and reappear, hover, and overlay.  With fun sounds and challenging questions, it's a riot!",
+    "description": "This a timed, multiple-choice JavaScript quiz that utilizes event clicks, elements that disappear, hover, and overlay.  With fun sounds and challenging questions, it's a riot!",
     "image": "quiz.png",
     "link1": "https://github.com/erin-smith/Quiz",
     "link2": "https://erin-smith.github.io/Quiz/",

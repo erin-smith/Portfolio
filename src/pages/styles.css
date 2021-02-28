@@ -6,17 +6,22 @@ h1 {
 .sign {
   font-family: 'Homemade Apple', cursive;
   text-align: right;
-  margin-right: 100px;
+  margin-right: 50px;
   margin-top: 50px;
   color: black;
   -ms-transform: rotate(-10deg);
   /* IE 9 */
   transform: rotate(-10deg);
 }
-
 #spacer {
   margin: 24px;
 }
+
+/* #erin1 {
+  margin-left: 140px;
+  align-items:center;
+  width: 70%;
+} */
 
 .contactHead {
   padding-left: 8px;
@@ -25,33 +30,39 @@ h1 {
 }
 
 p {
-  margin: 10px;
-  font-size: 15px;
-  text-indent: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 16px;
+  text-indent: 15px;
   color: black;
   font-family: 'Fira Sans Condensed', sans-serif;
+  line-height: 150%;
 }
 
-#boxy {
-  background-color: white;
-  padding: 1rem;
+#from {
+  background-color: rgb(255, 255, 255);
+  padding-left:2rem;
+  /* padding-bottom: 1rem; */
+  padding-top: 2rem;
+  padding-right: 2rem;
   width: auto;
+  /* margin-left: 100px;
+  margin-right: 0;
+  align-items:center; */
 }
 
 #boxz {
-  background-color: white;
-  margin-top: 50px;
+  background-color:white;
+  margin-top: 50px; 
   padding-bottom: 20px;
 }
 
 h3 {
   background-color: white;
   color: #343a40;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin-left: 15px;
+  padding-bottom: 8px;
+  margin-left: 10px;
   font-family: 'Fira Sans Condensed', sans-serif;
-
 }
 
 label,
@@ -125,42 +136,31 @@ h6 {
   color: white;
 }
 
-.altCover {
-  background-color: rgb(218, 202, 180);
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 20px;
+ .altCover {
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-size: 23px;
   line-height: 150%;
   text-align: center;
-  height: 100% !important;
-  background-size: cover !important;
-  background-repeat: repeat;
+} 
+
+.aboutCover{
+  font-family: 'Fira Sans Condensed', sans-serif;
+  margin:25px;
+  line-height: 150%;
 }
 
-#resumeBox {
+#resumeBox, #aboutBox{
   box-sizing: border-box;
   display: block;
 }
 
-#grey {
-  font-size: 34px;
-  text-decoration: underline;
-  color: #343a40;
-}
-
-#contact-info {
-  line-height: 150%;
-}
-
-#bio-image {
-  width: 70%;
-}
-
-#thumb {
-  width: 70%;
+#bio-image, #thumb{
+  width: 60%;
+  margin-top: 75px;
 }
 
 #pink {
-  color: darkmagenta;
+  color: burlywood;
   margin-right: 5px;
 }
 
@@ -178,20 +178,17 @@ h6 {
     margin-left: 0;
   }
 
-  #erin1 {
+  #erin1, #from {
     image-rendering: auto;
     align-self: center;
     margin-left: 0;
+    /* margin-right: 0; */
   }
 
   .contactHead {
     padding-left: 5px;
     padding-bottom: 0rem;
     padding-top: 5px;
-  }
-
-  #spacer {
-    margin: 0px;
   }
 
   #boxz {
@@ -203,9 +200,9 @@ h6 {
     margin-left: 0;
   }
 
-  #thumb {
-    margin-bottom: 30px;
-    margin-top: 5px;
+  #thumb, #bio-image {
+    margin-bottom: 20px;
+    margin-top: 0px;
   }
 
   .altCover {
@@ -216,6 +213,9 @@ h6 {
     height: 100%;
     background-repeat: repeat;
 
+  }
+  #spacer{
+    margin: 0px;
   }
 }
 
@@ -243,14 +243,11 @@ h6 {
     padding-top: 5px;
   }
 
-  #spacer {
-    margin: 0px;
-  }
-
-  #erin1 {
+  #erin1, #from {
     image-rendering: auto;
     align-self: center;
     margin-left: 0;
+    margin-right: 0;
   }
 
   #test {
@@ -262,15 +259,18 @@ h6 {
     position: relative;
   }
 
-  #thumb {
-    margin-bottom: 30px;
-    margin-top: 5px;
+  #thumb, #bio-image {
+    margin-bottom: 20px;
+    margin-top: 0px;
   }
 
   .altCover {
     width: 100%;
     height: 100%;
   }
+  #spacer{
+  margin: 0px;
+}
 
 
 }

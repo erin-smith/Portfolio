@@ -1,6 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import "./style.css";
+import heart from "../../images/heart.jpg";
 
 function Header() {
 
@@ -9,7 +10,7 @@ function Header() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-2">
           <a className= "navbar-brand">
-        <img alt="latte art tulip" src="https://s3-media0.fl.yelpcdn.com/bphoto/Q7bdFrX8vI403fAF-BP6-Q/o.jpg" id="tulip" className="d-inline-block align-top"  />
+        <img alt="latte art rosetta" src={heart} id="tulip" className="d-inline-block align-top"/>
          Erin Smith</a>
       <div className="navbar-collapse" id="navnav">
       <ul className="navbar-nav">

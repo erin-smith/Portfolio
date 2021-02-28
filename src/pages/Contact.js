@@ -90,7 +90,7 @@ handleFormSubmit = event => {
             className="form-control mb-2 mr-sm-2" 
           />
           <div id="spacer"></div>
-           <label className="mr-2" for="email">Email Adress:</label>
+           <label className="mr-2" for="email">Email Address:</label>
           <input
             value={this.state.email}
             id="email"

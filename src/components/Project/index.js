@@ -10,7 +10,7 @@ function Project(props) {
     <div className="flip-card">
       <div className="flip-card-inner">
         <div className="flip-card-front" >
-          <img className="project-card" alt={props.title} src={img_src}/>
+          <img className="project-card img-fluid" alt={props.title} src={img_src}/>
         </div>
         <div className="flip-card-back" style={{backgroundColor: props.bgcolor}}>
           <h1>{props.title}</h1>

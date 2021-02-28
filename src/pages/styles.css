@@ -180,7 +180,7 @@ h6 {
 
   #erin1, #from {
     image-rendering: auto;
-    align-self: center;
+    align-self: auto;
     margin-left: 0;
     /* margin-right: 0; */
   }

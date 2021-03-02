@@ -27,9 +27,9 @@ function About() {
           I am hopeful, hard-working, passionate and driven.
              </p>
                <h2 className="sign">Erin</h2>
-        </div>
+               </div>
+          </div>
       </div>
-    </div>
   );
 }
 
